@@ -1,3 +1,2 @@
-# Data-Camp Course List
-**1. Machine Learning Fundamentals with Python**
- >Supervised Learning
+# Data-Camp Slides
+This repository contains slides of several datacamp courses. 
